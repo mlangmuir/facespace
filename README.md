@@ -1,6 +1,6 @@
 # Facespace
 
-Facespace is a social network application I created as part of the Diploma of Web Development program at Concordia University. The project is similar to the cat Twitter clone project, which I also have as a public repository. A key difference is that this application has a sign-in function and uses local session to keep the user logged in while they are using the application.
+Facespace is a social network application I created as part of the Diploma of Web Development program at Concordia University. The project is similar to the cat Twitter clone project, which I also have as a public repository. A key difference is that this application has a sign-in function and uses session storage to keep the user logged in while they are using the application.
 
 The project is not currently hosted but I have uploaded a video demo of my work at the following link: https://www.youtube.com/watch?v=kwQul3aFdc8&ab_channel=MatthewLangmuir
 
